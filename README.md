@@ -1,7 +1,7 @@
 # GP_3_FS_2025
 
-### Course instructions for Geoprocessing 3 
-## Land surface temperature retrieval
+## Course instructions for Geoprocessing 3 
+### Land surface temperature retrieval
 
 
 This repository contains 4 different notebooks that are needed for the block #1 of the Geoprocessing course
