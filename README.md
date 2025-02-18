@@ -1,3 +1,3 @@
 # GP_3_FS_2025
 
-### Course intstructions for Geoprocessing 3 
+### Course instructions for Geoprocessing 3 
