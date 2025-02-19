@@ -16,8 +16,8 @@ This repository contains 4 different notebooks that are needed for the block #1 
 
 - 03_ESA_CCI_products.ipynb
   
-ESA CCI climate toolbox
+  ESA CCI climate toolbox
 
 - 04_Mini_project.ipynb
   
-Guidelines for the mini-project
+  Guidelines for the mini-project
